@@ -5,8 +5,12 @@ tettanが実行ファイルなので、それを実行してください。<br>
 <br>
 本プログラムには以下のライブラリが必要です。<br>
 http://www.arch.info.mie-u.ac.jp/~sasaki/hobby/software/EzGraph/<br>
-ライブラリ導入方法等は上記リンクを参照してください。
-
+ライブラリ導入方法等は上記リンクを参照してください。<br>
+<br>
+担当<br>
+自分：企画、プログラム設計、UI設計、画像素材作成、戦闘処理等のテトリス本体以外の実装等<br>
+甘い物好きな友人:テトリス部分の実装<br>
+麻雀好きな友人:一部ファイル読み込み処理の実装、フレーバーテキスト<br>
 
 ## 概要
 各教科の単位を取得するべく奮闘するテトリスです。最後まで生き残れればめでたく単位を取得できます。<br>
@@ -35,6 +39,38 @@ http://www.arch.info.mie-u.ac.jp/~sasaki/hobby/software/EzGraph/<br>
 敵は一定時間ごとに物理攻撃、一定数テトリミノを落とすと魔法攻撃を仕掛けてきます。<br>
 <br>
 ＊デバッグ用として、jで消したライン増加、kで敵のHPを１００減らします。
+
+
+以下スクリーンショット<br>
+<img src="https://github.com/asamichi/tettan/blob/master/screenshot/1.jpg"><br>
+グループのロゴ<br>
+雰囲気を出しつつ、画像の読み込み時間をごまかしてます。<br>
+<img src="https://github.com/asamichi/tettan/blob/master/screenshot/2.jpg"><br>
+<img src="https://github.com/asamichi/tettan/blob/master/screenshot/3.jpg"><br>
+タイトル。文字の影とかは自作。<br>
+<img src="https://github.com/asamichi/tettan/blob/master/screenshot/4.jpg"><br>
+<img src="https://github.com/asamichi/tettan/blob/master/screenshot/5.jpg"><br>
+<img src="https://github.com/asamichi/tettan/blob/master/screenshot/6.jpg"><br>
+<img src="https://github.com/asamichi/tettan/blob/master/screenshot/7.jpg"><br>
+<img src="https://github.com/asamichi/tettan/blob/master/screenshot/8.jpg"><br>
+キャラクリエイト。<br>
+友人のフレーバーテキストは、自分では思いつかないような勢いがある。<br>
+<img src="https://github.com/asamichi/tettan/blob/master/screenshot/9.jpg"><br>
+ゲーム画面。<br>
+敵は単位やら<br>
+<img src="https://github.com/asamichi/tettan/blob/master/screenshot/10.jpg"><br>
+教授の名言（？）やら<br>
+<img src="https://github.com/asamichi/tettan/blob/master/screenshot/11.jpg"><br>
+<img src="https://github.com/asamichi/tettan/blob/master/screenshot/12.jpg"><br>
+特定の教授を思い出す名前の敵もいる。<br>
+<img src="https://github.com/asamichi/tettan/blob/master/screenshot/13.jpg"><br>
+クリア後の画面。<br>
+弱いビルドにはボーナススコア等もある。<br>
+<img src="https://github.com/asamichi/tettan/blob/master/screenshot/14.jpg"><br>
+ランキング画面。<br>
+
+
+
 
 
 

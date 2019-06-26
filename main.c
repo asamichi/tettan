@@ -251,6 +251,11 @@ void key_handler(int key){
     n.form+=blocks[n.type].form-1;
   }
 
+   if(key == 'j')
+  	 deleted_line++;
+   if(key == 'k')
+	   enemy[enemy_num].hp-=100;
+
 		update_current(n);
 		
 		if(key == EZ_Up)

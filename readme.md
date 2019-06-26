@@ -41,13 +41,14 @@ http://www.arch.info.mie-u.ac.jp/~sasaki/hobby/software/EzGraph/<br>
 ＊デバッグ用として、jで消したライン増加、kで敵のHPを１００減らします。
 
 
-以下スクリーンショット<br>
+以下スクリーンショット<br><br>
 <img src="https://github.com/asamichi/tettan/blob/master/screenshot/1.jpg"><br>
 グループのロゴ<br>
 雰囲気を出しつつ、画像の読み込み時間をごまかしてます。<br>
+<br>
 <img src="https://github.com/asamichi/tettan/blob/master/screenshot/2.jpg"><br>
 <img src="https://github.com/asamichi/tettan/blob/master/screenshot/3.jpg"><br>
-タイトル。文字の影とかは自作。<br>
+タイトル。文字の影とかは自作。<br><br>
 <img src="https://github.com/asamichi/tettan/blob/master/screenshot/4.jpg"><br>
 <img src="https://github.com/asamichi/tettan/blob/master/screenshot/5.jpg"><br>
 <img src="https://github.com/asamichi/tettan/blob/master/screenshot/6.jpg"><br>
@@ -55,17 +56,22 @@ http://www.arch.info.mie-u.ac.jp/~sasaki/hobby/software/EzGraph/<br>
 <img src="https://github.com/asamichi/tettan/blob/master/screenshot/8.jpg"><br>
 キャラクリエイト。<br>
 友人のフレーバーテキストは、自分では思いつかないような勢いがある。<br>
+<br>
 <img src="https://github.com/asamichi/tettan/blob/master/screenshot/9.jpg"><br>
 ゲーム画面。<br>
 敵は単位やら<br>
+<br>
 <img src="https://github.com/asamichi/tettan/blob/master/screenshot/10.jpg"><br>
 教授の名言（？）やら<br>
+<br>
 <img src="https://github.com/asamichi/tettan/blob/master/screenshot/11.jpg"><br>
 <img src="https://github.com/asamichi/tettan/blob/master/screenshot/12.jpg"><br>
 特定の教授を思い出す名前の敵もいる。<br>
+<br>
 <img src="https://github.com/asamichi/tettan/blob/master/screenshot/13.jpg"><br>
 クリア後の画面。<br>
 弱いビルドにはボーナススコア等もある。<br>
+<br>
 <img src="https://github.com/asamichi/tettan/blob/master/screenshot/14.jpg"><br>
 ランキング画面。<br>
 

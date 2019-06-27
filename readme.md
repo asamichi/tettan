@@ -3,7 +3,7 @@
 動作環境はlinuxです<br>
 tettanが実行ファイルなので、それを実行してください。<br>
 <br>
-本プログラムには以下のライブラリが必要です。<br>
+本プログラムのコンパイルには以下のライブラリが必要です。<br>
 http://www.arch.info.mie-u.ac.jp/~sasaki/hobby/software/EzGraph/<br>
 ライブラリ導入方法等は上記リンクを参照してください。<br>
 <br>

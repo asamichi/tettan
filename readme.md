@@ -11,6 +11,9 @@ http://www.arch.info.mie-u.ac.jp/~sasaki/hobby/software/EzGraph/<br>
 自分：企画、プログラム設計、UI設計、画像素材作成、戦闘処理等のテトリス本体以外の実装等<br>
 甘い物好きな友人:テトリス部分の実装<br>
 麻雀好きな友人:一部ファイル読み込み処理の実装、フレーバーテキスト<br>
+<br>
+ファイルが散らかってるの等は、<br>
+当時の思い出としてあえてそのままおいてあります。<br>
 
 ## 概要
 各教科の単位を取得するべく奮闘するテトリスです。最後まで生き残れればめでたく単位を取得できます。<br>
@@ -74,7 +77,19 @@ http://www.arch.info.mie-u.ac.jp/~sasaki/hobby/software/EzGraph/<br>
 <br>
 <img src="https://github.com/asamichi/tettan/blob/master/screenshot/14.jpg"><br>
 ランキング画面。<br>
-
+<br>
+<br>
+あとになって思うことなど<br>
+コードの綺麗さとかはさておき、
+#includeをおまじないで済まさず勉強したせいで、<br>
+Cファイルをincludeする暴挙に出ている<br>
+あと、ファイル構成がよろしくない。<br>
+どちらも、コンパイルコマンドが長くなる等の手間を省く目的のせいだが、<br>
+初学者だったか仕方ないか。<br>
+シェルスクリプト時代を経て、<br>
+今の自分ならMakefileできれいにするのにとか、<br>、
+コメント量やらコーディング面等、<br>
+改善点が多く見えるのは成長の証かもしれない。<br>
 
 
 

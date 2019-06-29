@@ -79,7 +79,7 @@ http://www.arch.info.mie-u.ac.jp/~sasaki/hobby/software/EzGraph/<br>
 ランキング画面。<br>
 <br>
 <br>
-あとになって思うことなど<br>
+# あとになって思うことなど<br>
 コードの綺麗さとかはさておき、
 #includeをおまじないで済まさず勉強したせいで、<br>
 Cファイルをincludeする暴挙に出ている<br>
